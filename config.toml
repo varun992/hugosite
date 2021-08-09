@@ -361,7 +361,7 @@ theme = "FeelIt"
         platform = "github"
         owner = "rocketlearn"
         repo = "comments"
-        clientId = ""eb4cd82eef975474da36
+        clientId = "eb4cd82eef975474da36"
         clientSecret = ""
       # Gitalk comment config
       [params.page.comment.gitalk]
