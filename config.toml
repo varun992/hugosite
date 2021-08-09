@@ -345,7 +345,7 @@ theme = "FeelIt"
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config
       [params.page.comment.disqus]
         # 
@@ -360,8 +360,8 @@ theme = "FeelIt"
         # Vssue platform API ("bitbucket", "gitea", "gitee", "github", "github-v4", "gitlab")
         platform = "github"
         owner = "rocketlearn"
-        repo = "6bb505b2b838268542b821234268e85b2dde4d84"
-        clientId = "eb4cd82eef975474da36"
+        repo = "comments"
+        clientId = ""eb4cd82eef975474da36
         clientSecret = ""
       # Gitalk comment config
       [params.page.comment.gitalk]
