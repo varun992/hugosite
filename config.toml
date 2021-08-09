@@ -356,12 +356,12 @@ theme = "FeelIt"
       # Vssue comment config (https://github.com/meteorlxy/vssue)
       [params.page.comment.vssue]
         #
-        enable = false
+        enable = true
         # Vssue platform API ("bitbucket", "gitea", "gitee", "github", "github-v4", "gitlab")
-        platform = ""
-        owner = ""
-        repo = ""
-        clientId = ""
+        platform = "github"
+        owner = "rocketlearn"
+        repo = "6bb505b2b838268542b821234268e85b2dde4d84"
+        clientId = "eb4cd82eef975474da36"
         clientSecret = ""
       # Gitalk comment config
       [params.page.comment.gitalk]
