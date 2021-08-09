@@ -11,6 +11,7 @@ theme = "FeelIt"
 # themes directory
 # 主题目录
 
+ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstoken"]
 [params]
   #  FeelIt theme version
   version = "1.0.X"
